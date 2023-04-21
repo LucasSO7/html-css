@@ -1,0 +1,47 @@
+
+        body {
+            background-color: rgb(255, 0, 55);
+        }
+        .list1 {
+            background-color: rgb(255, 0, 85);
+            width: 200px;
+            margin-left:10%;
+            padding: 10px;
+             color: white;
+            box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
+        }
+       .list2 {
+            background-color: rgb(255, 0, 85);
+            color: white;
+            width: 200px;
+            margin-left:55%;
+            margin-top: -30%;
+            padding: 10px;
+            box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
+        }
+        .titulo {
+            color: white;
+            text-align: center;
+            background-color: rgb(255, 0, 85);
+            box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
+            margin: 5%;
+            width: 530px;
+            height: 40px;
+        }
+        .list3 {
+            background-color: rgb(255, 0, 85);
+            width: 200px;
+            margin-left:10%;
+            padding: 10px;
+             color: white;
+            box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
+        }
+        .list4 {
+            background-color: rgb(255, 0, 85);
+            width: 200px;
+            margin-left:55%;
+            margin-top: -30%;
+            padding: 10px;
+             color: white;
+            box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
+        }
